@@ -1,4 +1,4 @@
-RainFall Data Analyzer
+ 🌧️ Rainfall Data Analyzer
 
 Rainfall Data Analyzer is a Python project that records rainfall values and analyzes them using basic Python operations. Total, average, maximum, minimum, summary reporting, and graphical visualization
 
@@ -10,8 +10,6 @@ Minimum rainfall
 Summary of rainfall data
 Graphical visualization of rainfall
 
-
- 🌧️ Rainfall Data Analyzer
 
  📌 Project Overview
 
