@@ -1,5 +1,0 @@
-flet
-pandas
-matplotlib
-requests
-openmeteo-requests
